@@ -4,10 +4,13 @@
 
 - To run the `demo_simu.R`, you further need to include `utilities.R` and the pkgs in that files
 
-
 - To run the `ABC_app.py` file, you need to install dash
-- This application is created by Dash. For more information about Dash, please visit https://dash.plotly.com/
-Install the python packages by
+
+- This application is created by Dash. 
+
+    For more information about Dash, please visit https://dash.plotly.com/
+
+    Install the python packages by
 
     `pip install dash plotly pandas`
 
