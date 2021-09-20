@@ -13,7 +13,7 @@ Install the python packages by
 
     Then, run the app with
 
-    $ python MCA_app.py
+    $ python ABC_app.py
 
     ...Running on `http://127.0.0.1:4544/` (Press CTRL+C to quit)
 
